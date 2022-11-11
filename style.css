@@ -70,6 +70,10 @@ body
     /* background-color: #643288; */
     justify-content: center;
 }
+p {
+    margin-top: 0;
+    margin-bottom: -2rem;
+}
 .piyush
 {
     background-color: #643288;
